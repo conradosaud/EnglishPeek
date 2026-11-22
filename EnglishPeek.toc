@@ -1,7 +1,7 @@
 ## Interface: 16001
 ## Title: English Peek
-## Notes: Hold a key to see names in English: quests, NPCs, zones and items, in place (requires Questie).
-## Notes-ptBR: Segure uma tecla para ver nomes em inglês: missões, NPCs, regiões e itens, no próprio lugar (requer Questie).
+## Notes: Hold a key to see names in English: quests, items, zones, dungeons and NPCs, in place (requires Questie).
+## Notes-ptBR: Segure uma tecla para ver nomes em inglês: missões, itens, regiões, masmorras e NPCs, no próprio lugar (requer Questie).
 ## Author: Conrado Saud
 ## Version: 1.0.0
 ## IconTexture: Interface\AddOns\EnglishPeek\Textures\icon

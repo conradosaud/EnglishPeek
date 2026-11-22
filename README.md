@@ -6,7 +6,7 @@
 
 <p align="center"><b>Hold a key to see names in English.</b> For World of Warcraft: Forever.</p>
 
-Playing in your own language but want to know what things are called in English (for guides, wikis, videos or talking to international players)? Hold **F12** and quest, NPC, zone and item names switch to English, right where they are. Let go and everything goes back to your language.
+Playing in your own language but want to know what things are called in English (for guides, wikis, videos or talking to international players)? Hold **F12** and the names of quests, items, zones, dungeons and NPCs switch to English, right where they are. Let go and everything goes back to your language.
 
 ![English Peek demo: holding the key switches names to English](media/englishpeek.gif)
 
@@ -15,9 +15,10 @@ Playing in your own language but want to know what things are called in English 
 - **In place, instant:** the text itself changes. It is not a tooltip on top.
 - **What gets translated:**
   - Quest titles and objectives (quest log, quest dialog, Questie tracker)
-  - NPC names and titles (*Gryphon Master*, *Banker*…), including nameplates (Blizzard and Plater)
-  - Zones and subzones, maps, continents, dungeons and raids
   - Items on every screen: tooltips, bags, merchant, loot, quest rewards, auction house, mail, trade, professions
+  - Zones and subzones, maps and continents
+  - Dungeons and raids
+  - NPC names and titles (*Gryphon Master*, *Banker*…) in tooltips, the target frame and dialogs, and on nameplates when they are turned on (Blizzard and Plater). Names floating above heads are not changed (see [Limitations](#limitations)).
   - World objects (*Copper Vein*…), flight points, classes, races, professions and weapon skills
   - Optional: the **text painted on the world map**, using Map Fix Forever's images (see below)
 - **Safe:** chat and anything players type are never touched, and player names are never translated. Nothing happens in combat (entering combat restores everything at once).
