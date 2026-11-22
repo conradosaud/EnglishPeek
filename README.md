@@ -23,6 +23,7 @@ Playing in your own language but want to know what things are called in English 
   - Optional: the **text painted on the world map**, using Map Fix Forever's images (see below)
 - **Safe:** chat and anything players type are never touched, and player names are never translated. Nothing happens in combat (entering combat restores everything at once).
 - **Lightweight:** uses Questie's existing data. No scanning, no data collection, and the game language is not changed.
+- **Built to last:** if a Questie update changes how its data is organized, English Peek tries to find it anyway. If something does stop working, it never causes errors: it simply skips that part and lets you know in chat. `/englishpeek status` shows what is working.
 
 ## Requirements
 

@@ -39,6 +39,7 @@ The names painted on the world map images can also be shown in English. To enabl
 - **Names above heads:** names floating above characters are drawn by the game itself and cannot be changed by addons. Turn on nameplates to see NPC names in English there.
 - **Not translated:** spells, achievements and general interface text such as menus and buttons.
 - **Languages:** works on any non-English game client. It is tested in Brazilian Portuguese. On an English client the key does nothing.
+- **Built to last:** if a Questie update changes how its data is organized, English Peek tries to find it anyway. If something does stop working, it never causes errors: it simply skips that part and lets you know in chat. `/englishpeek status` shows what is working.
 
 ## Commands
 
