@@ -75,5 +75,5 @@ To add a language for the addon's own messages, copy the `enUS` block in `Locale
 ## Credits and license
 
 - English data: [Questie](https://github.com/Questie/Questie) and QuestieDB.
-- English map images and texture table: [Map Fix Forever](https://github.com/Pirson-s-Addons/MapFixForever) by Pirson (MIT).
+- English map images and texture table: [Map Fix Forever](https://github.com/Pirson-s-Addons/MapFixForever) by Pirson (MIT). `MapArtData.lua` is a copy of its texture table and keeps its original MIT notice.
 - English Peek by Conrado Saud, released under the [MIT License](LICENSE).
