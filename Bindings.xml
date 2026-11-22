@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="ENGLISHPEEK_HOLD" category="ADDONS" runOnUp="true">
+        EnglishPeek_OnKey(keystate)
+    </Binding>
+</Bindings>

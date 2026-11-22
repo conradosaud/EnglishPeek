@@ -1,0 +1,30 @@
+# Editors / IDEs
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Operating system
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+
+# Generated packages (release zip, BigWigs Packager output)
+*.zip
+.release/
+
+# Temporary files and backups
+*.tmp
+*.bak
+*.swp
+*~
+
+# Logs
+*.log
+
+# Claude Code local settings
+.claude/settings.local.json

@@ -1,0 +1,20 @@
+## Interface: 16001
+## Title: English Peek
+## Notes: Hold a key to see names in English: quests, NPCs, zones and items, in place (requires Questie).
+## Notes-ptBR: Segure uma tecla para ver nomes em inglês: missões, NPCs, regiões e itens, no próprio lugar (requer Questie).
+## Author: Conrado Saud
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\EnglishPeek\Textures\icon
+## SavedVariables: EnglishPeekDB
+## Dependencies: Questie, QuestieDB
+## OptionalDeps: MapFixForever
+
+Locale.lua
+Core.lua
+QuestieData.lua
+Dictionary.lua
+Context.lua
+MapArtData.lua
+MapArt.lua
+Swapper.lua
+Diagnostics.lua
