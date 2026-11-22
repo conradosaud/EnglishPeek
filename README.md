@@ -34,11 +34,11 @@ Playing in your own language but want to know what things are called in English 
 
 The easiest way is the **[CurseForge app](https://www.curseforge.com/download/app)**. It installs and updates everything:
 
-1. Install [English Peek]() from CurseForge. Questie is installed with it automatically as a required dependency.
+1. Install [English Peek](https://www.curseforge.com/wow/addons/english-peek) from CurseForge. Questie is installed with it automatically as a required dependency.
 2. Optional: install [Map Fix Forever](https://www.curseforge.com/wow/addons/map-fix-forever), then **disable it** in the AddOns list at character select.
 3. Log in. A welcome window explains how to use the addon.
 
-Manual installation: download [Questie](https://www.curseforge.com/wow/addons/questie) and [English Peek](), then extract their folders into `World of Warcraft\_forever_\Interface\AddOns\`.
+Manual installation: download [Questie](https://www.curseforge.com/wow/addons/questie) and [English Peek](https://www.curseforge.com/wow/addons/english-peek), then extract their folders into `World of Warcraft\_forever_\Interface\AddOns\`.
 
 ## Usage
 
